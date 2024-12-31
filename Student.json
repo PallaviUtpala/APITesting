@@ -1,0 +1,40 @@
+{
+"students" :[
+{
+	"Id" : "01",
+	"Name" : "Adithi",
+	"Age" : "11 months",
+	"Surname" : "Bhojanapalli"
+},
+{
+	"Id" : "02",
+	"Name" : "Vihaan",
+	"Age" : "4 years",
+	"Surname" : "Bhojanapalli"
+},
+{
+	"Id" : "03",
+	"Name" : "Pallavi",
+	"Age" : "23 years",
+	"Surname" : "Utpala"
+},
+{
+	"Id" : "04",
+	"Name" : "Sameeraja",
+	"Age" : "27 years",
+	"Surname" : "Bhojanapalli"
+},
+{
+	"Id" : "05",
+	"Name" : "Radha",
+	"Age" : "51 years",
+	"Surname" : "Utpala"
+},
+{
+	"Id" : "06",
+	"Name" : "Srinivasa murthy",
+	"Age" : "56 years",
+	"Surname" : "Utpala"
+}
+]
+}
